@@ -19,3 +19,4 @@ Travel planner має на меті допомогти молоді сплану
 Дані отримані із сайтів kiwi.com, numbeo.com та wikitravel.com шляхом парсингу за допомогою BeautifulSoup4 та API.
 ## Запуск Travel planner:
 Для запуску системи потрібно скористатися файлом connect.py та завантажити бібліотеки datetime, bs4, urllib, re, json, flask.
+<br>Або перейти за посиланням: TytarenkoViktor.pythonanywhere.com
