@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 
 
 class TravelPlan:
-    """This method creates travel plan."""
+    """This class creates travel plan."""
     def __init__(self, data1, data2, summary):
-        """Thsi method initializes."""
+        """This method initializes."""
         self.data1 = data1
         self.data2 = data2
         self.summary = summary
